@@ -1,6 +1,6 @@
 # Hi, I'm Dat — also known as Chris
 
-I'm a student with a strong interest in robotics, autonomous systems, and artificial intelligence. I'm developing my understanding of these fields while building a foundation in database design and distributed systems.
+I'm a student with a strong interest in robotics, autonomous systems, and artificial intelligence. I'm developing my understanding of these fields while building a foundation in database design.
 
 I use GitHub to document academic projects, explain design decisions, and track my learning from requirements analysis to implementation.
 
@@ -8,7 +8,7 @@ I use GitHub to document academic projects, explain design decisions, and track 
 
 - Robotics and autonomous systems
 - Artificial intelligence
-- Database design and distributed systems
+- Database design
 
 ## Featured Academic Project
 
