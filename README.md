@@ -22,4 +22,4 @@ A team project exploring how database design can support a freelance marketplace
 
 ## Learning Approach
 
-I aim to make my work easy to review through clear documentation, explicit assumptions, and traceable design decisions. As projects progress, I plan to add reproducible examples and test results.
+I follow a Goal-Driven Project Learning approach, combining Learning by Doing, Active Recall, the Feynman Technique, and Iterative Debugging. I usually start with a practical goal or real project, break complex problems into smaller components, study the underlying principles, implement them directly, analyze failures, and refine the solution through repeated testing. My focus is not only on making things work, but also on understanding why they work, how each component fits into the whole system, and how the knowledge can be applied to larger AI, Robotics, and Autonomous Systems projects.
